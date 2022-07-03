@@ -6,3 +6,6 @@ plotly
 seaborn
 matplotlib
 koreanize_matplotlib
+altair
+google.cloud
+google.oauth2.service_account
