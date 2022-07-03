@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+datetime
+plotly
+seaborn
+matplotlib
+koreanize_matplotlib
