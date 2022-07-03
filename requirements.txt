@@ -5,7 +5,10 @@ datetime
 plotly
 seaborn
 matplotlib
-koreanize_matplotlib
 altair
-google.cloud
-google.oauth2.service_account
+vega-datasets
+google-api-python-client
+google-auth
+google-auth-httplib2
+protobuf
+click==8
